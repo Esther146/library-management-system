@@ -1,5 +1,7 @@
 # library-management-system
-A library management system based on Queue Priority and also based on FIFO
+A library management system based on Queue Priority and also based on FIFO.
+
+
 This is the library management system built with Java Collection Framework. 
 In the first implementation: 
 Librarian lends book to users based on PRIORITY. Here I made use of Queue and PriorityQueue to pick the objects based on prioity.
